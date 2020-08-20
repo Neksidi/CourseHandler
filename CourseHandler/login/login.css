@@ -1,0 +1,11 @@
+
+
+.mainFxmlClass {
+    -fx-background-color: #B3E5FC;
+}
+.jfx-button {
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-background-color: #64B5F6;
+    -fx-text-fill: white;
+    /*135,206,235*/
+}

@@ -1,0 +1,45 @@
+
+
+.mainFxmlClass {
+    -fx-background-color: #B3E5FC;
+}
+.jfx-button {
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-background-color: #64B5F6;
+    -fx-text-fill: white;
+}
+.Info1 {
+    -fx-background-color: #BBDEFB;
+}
+.Info2 {
+    -fx-background-color: #BBDEFB;
+}
+.separator *.line{
+    -fx-background-color:#EEEEEE;
+
+}
+.table-view{
+   -fx-background-color: transparent;
+}
+
+.table-view:focused{
+    -fx-background-color: transparent;
+}
+.table-view .column-header-background{
+    -fx-background-color: #BBDEFB;
+    -fx-border-color: gray;
+    -fx-table-cell-border-color:gray;
+}
+
+/*.table-view .column-header-background .label{
+    -fx-background-color: transparent;
+
+}
+*/
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+/*
+.table-view .table-cell{
+    -fx-text-fill: white;
+}*/
